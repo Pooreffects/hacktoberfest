@@ -3,6 +3,11 @@
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
+#### Name: Mohamed aka pooreffects
+- Place: Medea, Algeria
+- Bio: Self-taught Frontend Engineer
+- GitHub: [pooreffects](https://github.com/Pooreffects)
+
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
